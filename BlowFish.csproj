@@ -11,7 +11,7 @@
 		<RepositoryUrl>https://github.com/Elskom/BlowFish/</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/Elskom/BlowFish/</PackageProjectUrl>
 		<PackageLicenseUrl>https://github.com/Elskom/BlowFish/blob/master/LICENSE</PackageLicenseUrl>
-		<Copyright>Copyright (c) 2018</Copyright>
+		<Copyright>Copyright (c) 2018-2019</Copyright>
 		<Description>A simple C# blowfish encryption library.</Description>
 		<PackageReleaseNotes>Added .NET Core 3.0 and 2.2 to target frameworks.</PackageReleaseNotes>
 		<Version>1.0.1</Version>
